@@ -1,0 +1,1 @@
+Environment variables: -Djava.util.logging.config.file=logging.properties
